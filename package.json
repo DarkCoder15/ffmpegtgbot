@@ -1,0 +1,20 @@
+{
+    "dependencies": {
+        "node-telegram-bot-api": "^0.60.0"
+    },
+    "name": "ffmpegbot",
+    "version": "1.0.0",
+    "description": "FFMpeg bot for Telegram",
+    "main": "index.js",
+    "private": true,
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DarkCoder15/ffmpegtgbot"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "DarkCoder15",
+    "license": "MIT"
+}
